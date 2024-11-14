@@ -13,7 +13,7 @@ html {
   -webkit-text-size-adjust: none;
   text-size-adjust: none;
   /* Increase the overall font-size */
-  font-size: 20px;
+  font-size: 16px;
 }
 
 /* Remove default margin in favour of better control in authored CSS */
